@@ -1,0 +1,12 @@
+﻿Build started 2015-07-28 오후 4:25:28.
+     1>Project "C:\Users\HongKwangPil\Documents\Visual Studio 2013\Projects\NEW_TETRIS\NEW_TETRIS.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\NEW_TETRIS.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\users\hongkwangpil\documents\visual studio 2013\projects\new_tetris\tetrimino.h(13): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\hongkwangpil\documents\visual studio 2013\projects\new_tetris\tetrimino.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>Done Building Project "C:\Users\HongKwangPil\Documents\Visual Studio 2013\Projects\NEW_TETRIS\NEW_TETRIS.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.77
